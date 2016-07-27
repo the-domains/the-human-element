@@ -1,8 +1,8 @@
 ---
 author: []
 title: ''
-dateModified: '2016-07-27T11:44:26.189Z'
-datePublished: '2016-07-27T11:44:26.911Z'
+dateModified: '2016-07-27T12:00:51.677Z'
+datePublished: '2016-07-27T12:00:52.769Z'
 description: I study the brain (decisions & behavior).
 publisher: {}
 via: {}
