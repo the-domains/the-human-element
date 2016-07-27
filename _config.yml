@@ -1,26 +1,16 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+layout_spectrum: 0.4895697
 typography_spectrum: 0.4242742
 color:
   saturation: 0.5290651
   brandStrength: 0.6265042
-  rhythmicContrast: 0.3088077
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#73AFB7'
     - '#5D6F7B'
     - '#C5C5C5'
     - '#151515'
-  lightness: 1
-layout_spectrum: 0.1197637
+  rhythmicContrast: 0.3088077
 name: The Human Element
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dacbe5d0-7b4c-4671-bc5a-42656442a835.jpg
