@@ -1,18 +1,15 @@
 ---
 author: []
 title: ''
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/25dfff3a-66be-46a5-924a-22b48c0e05f1.jpg
-dateModified: '2016-07-27T11:42:14.579Z'
-datePublished: '2016-07-27T11:42:34.447Z'
+dateModified: '2016-07-27T11:44:26.189Z'
+datePublished: '2016-07-27T11:44:26.911Z'
 description: I study the brain (decisions & behavior).
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-27-i-study-the-brain-decisions-and-behavior.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: i-study-the-brain-decisions-and-behavior/index.html
 _type: MediaObject
 
 ---
