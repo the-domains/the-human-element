@@ -18,6 +18,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e34464bf-fd8a-4b29-b28c-c3d9c279e0b3.jpg
 name: The Human Element
+navigation:
+  - url: 'http://jaredeast.com/about/'
+    name: About
+    type: external
 collections:
   - index:
       path: /
