@@ -1,15 +1,26 @@
-layout_spectrum: 0.4895697
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4242742
 color:
   saturation: 0.5290651
   brandStrength: 0.6265042
-  lightness: 1
+  rhythmicContrast: 0.3088077
   brandColors:
     - '#FFFFFF'
     - '#73AFB7'
     - '#5D6F7B'
     - '#C5C5C5'
     - '#151515'
-  rhythmicContrast: 0.3088077
+  lightness: 1
+layout_spectrum: 0.1197637
 name: The Human Element
-logo: null
