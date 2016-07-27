@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Exploring the Human Element]]></title>
-        <description><![CDATA[Exploring the Human Element]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[the Human Element]]></title>
+        <description><![CDATA[the Human Element]]></description>
+        <link>https://thegrid.ai/the-human-element/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 11:33:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 11:42:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-human-element/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25dfff3a-66be-46a5-924a-22b48c0e05f1.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/25dfff3a-66be-46a5-924a-22b48c0e05f1.jpg</link>
+            <guid isPermaLink="false">dc0aba01-2440-4e5c-b1d7-25ebafaaab22</guid>
+            <pubDate>Wed, 27 Jul 2016 11:42:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schools Are Failing To Develop Students With Moral Identities]]></title>
             <description><![CDATA[<article><h1>Schools Are Failing To Develop Students With Moral Identities</h1><p>The pressures of national academic standards have pushed character education out of the classroom. For us to continue writing great stories, we need to display ads. Please select the extension that is blocking ads. Please follow the steps below</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0772b93b9a9e534a02c9a29675e4455a/noop.jpg?input=https%3A%2F%2Fcdn.theatlantic.com%2Fassets%2Fmedia%2Fimg%2Fmt%2F2016%2F07%2FRTR2ZYJB%2Flead_960.jpg%3F1469457926"></article>]]></description>
