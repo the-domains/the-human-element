@@ -1,4 +1,23 @@
-typography_spectrum: 0.4242742
+author:
+  name: Jared East
+  email: jared@jaredeast.com
+  url: ''
+title: the Human Element
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e34464bf-fd8a-4b29-b28c-c3d9c279e0b3.jpg
+description: 'Brains, Bodies and Tribes'
 color:
   saturation: 0.5290651
   brandStrength: 0.6265042
@@ -10,29 +29,10 @@ color:
     - '#C5C5C5'
     - '#151515'
   lightness: 1
-layout_spectrum: 0.1197637
-author:
-  name: Jared East
-  email: jared@jaredeast.com
-  url: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e34464bf-fd8a-4b29-b28c-c3d9c279e0b3.jpg
-name: The Human Element
+typography_spectrum: 0.5225564
 navigation:
-  - name: About
-    id: c9f211c1-9747-49fe-be01-c86189107f6a
+  - id: dc0aba01-2440-4e5c-b1d7-25ebafaaab22
+    name: About
     type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: the Human Element
-description: 'Brains, Bodies and Tribes'
+layout_spectrum: 0.1197637
+name: The Human Element
