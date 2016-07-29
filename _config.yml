@@ -25,6 +25,9 @@ navigation:
   - name: Health
     id: 4a857e78-d708-4bb1-9f65-61c9f10b04b2
     type: content
+  - name: Fitness
+    id: ecebd271-0b78-4abb-a450-e9dbaa2321c5
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fb4b4a0-b921-44ac-9b3b-6ddfb594130f.jpg
 collections:
