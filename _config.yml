@@ -22,14 +22,14 @@ navigation:
   - name: About
     id: c9f211c1-9747-49fe-be01-c86189107f6a
     type: content
+  - name: Decisions
+    id: 45c54ef4-ac08-4dea-bc3e-4dede89b2ab4
+    type: content
   - name: Health
     id: 4a857e78-d708-4bb1-9f65-61c9f10b04b2
     type: content
   - name: Fitness
     id: ecebd271-0b78-4abb-a450-e9dbaa2321c5
-    type: content
-  - name: Decisions
-    id: 45c54ef4-ac08-4dea-bc3e-4dede89b2ab4
     type: content
   - name: 'Behavior '
     id: 60d36155-2c88-409a-8527-f7901b988aa5
