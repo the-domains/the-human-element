@@ -1,17 +1,4 @@
-title: the Human Element
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: 'Brains, Bodies and Tribes'
+typography_spectrum: 0.4242742
 color:
   saturation: 0.5290651
   brandStrength: 0.6265042
@@ -23,18 +10,34 @@ color:
     - '#C5C5C5'
     - '#151515'
   lightness: 1
-navigation:
-  - name: About
-    id: c9f211c1-9747-49fe-be01-c86189107f6a
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fb4b4a0-b921-44ac-9b3b-6ddfb594130f.jpg
+layout_spectrum: 0.1197637
 author:
   name: Jared East
   email: jared@jaredeast.com
   url: ''
-name: The Human Element
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e34464bf-fd8a-4b29-b28c-c3d9c279e0b3.jpg
-typography_spectrum: 0.4242742
-layout_spectrum: 0.2894737
+name: The Human Element
+navigation:
+  - name: About
+    id: c9f211c1-9747-49fe-be01-c86189107f6a
+    type: content
+  - name: Health
+    id: 4a857e78-d708-4bb1-9f65-61c9f10b04b2
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fb4b4a0-b921-44ac-9b3b-6ddfb594130f.jpg
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: the Human Element
+description: 'Brains, Bodies and Tribes'
