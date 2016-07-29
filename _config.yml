@@ -37,6 +37,9 @@ navigation:
   - name: 'Cooperation '
     id: 91b5ccda-9389-4e16-bfa9-b9f631a2bb58
     type: content
+  - name: Conflict
+    id: 0b2265a0-c032-4d19-bc14-12176479da37
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fb4b4a0-b921-44ac-9b3b-6ddfb594130f.jpg
 collections:
