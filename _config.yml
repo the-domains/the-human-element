@@ -5,12 +5,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: 'Brains, Bodies and Tribes'
 color:
   saturation: 0.5290651
@@ -47,12 +47,12 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fb4b4a0-b921-44ac-9b3b-6ddfb594130f.jpg
+name: The Human Element
 author:
   name: Jared East
   email: jared@jaredeast.com
   url: ''
-name: The Human Element
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e34464bf-fd8a-4b29-b28c-c3d9c279e0b3.jpg
 typography_spectrum: 0.4242742
-layout_spectrum: 0.2067669
+layout_spectrum: 0.3560687
