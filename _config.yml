@@ -31,6 +31,9 @@ navigation:
   - name: Decisions
     id: 45c54ef4-ac08-4dea-bc3e-4dede89b2ab4
     type: content
+  - name: 'Behavior '
+    id: 60d36155-2c88-409a-8527-f7901b988aa5
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fb4b4a0-b921-44ac-9b3b-6ddfb594130f.jpg
 collections:
