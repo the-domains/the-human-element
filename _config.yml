@@ -28,6 +28,9 @@ navigation:
   - name: Fitness
     id: ecebd271-0b78-4abb-a450-e9dbaa2321c5
     type: content
+  - name: Decisions
+    id: 45c54ef4-ac08-4dea-bc3e-4dede89b2ab4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fb4b4a0-b921-44ac-9b3b-6ddfb594130f.jpg
 collections:
