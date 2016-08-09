@@ -18,7 +18,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e34464bf-fd8a-4b29-b28c-c3d9c279e0b3.jpg
 name: The Human Element
-navigation: []
+navigation:
+  - name: About
+    id: c9f211c1-9747-49fe-be01-c86189107f6a
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fb4b4a0-b921-44ac-9b3b-6ddfb594130f.jpg
 collections:
